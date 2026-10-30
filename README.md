@@ -1,0 +1,2 @@
+# jinxghost-releases
+ghost
